@@ -2,8 +2,11 @@
 
 ## 📚 Study (24.03.01 ~ ing)   
 - [메인페이지] - (https://hwanginji.github.io/class2024/)
+
 - [자바스크립트] - (https://hwanginji.github.io/class2024/javascript/index.html)
+
 - [MySQL] - (https://hwanginji.github.io/class2024/mysql/index.html)
+
 - [Quiz game] - (https://hwanginji.github.io/class2024/quiz/index.html)   
 
 ## 📱 Technology   
