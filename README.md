@@ -47,4 +47,8 @@
 
 - [Github Blog] - (https://hwanginji.github.io/)
 
+- [Project01 : 웹사이트만들기(마라톤 정보 사이트)] - (http://dlswl1993.dothome.co.kr/)
+
+- [Project02 : JSON파일 수집하기(티켓처별 뮤지컬,콘서트,전시 순위)] - (https://github.com/HwangInJi/cultureChart)
+  
 ---
