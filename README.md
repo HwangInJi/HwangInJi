@@ -4,6 +4,30 @@
 </p>
 
 ---
+## 📚 Study (24.03.01 ~ ing)   
+- [메인페이지] - (https://hwanginji.github.io/class2024/)
+
+- [자바스크립트] - (https://hwanginji.github.io/class2024/javascript/index.html)
+
+- [MySQL] - (https://hwanginji.github.io/class2024/mysql/index.html)
+
+- [Quiz game] - (https://hwanginji.github.io/class2024/quiz/index.html)
+
+- [Github Blog] - (https://hwanginji.github.io/)
+
+- [Website01 - Youtube Tea 정보 서치] - (https://youtubetea.vercel.app/)
+  
+- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - (https://youtube-playlist-beige.vercel.app/)
+  
+- [Website03 - 포트폴리오] - (https://vue-port-lime.vercel.app/)
+  
+---
+## 👨‍👧‍👧 Team Project (24.03.01 ~ ing)   
+- [Project01 : WRM(마라톤 정보 사이트) 리드미 정리] - (https://github.com/HwangInJi/Way-Run-Meaning)
+
+- [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)] - (https://culture-chart.vercel.app/)
+  
+---
 ## 🏆 My GitHub Readme Stats   
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,21 +58,4 @@
     <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </div>
 
----
-
-## 📚 Study (24.03.01 ~ ing)   
-- [메인페이지] - (https://hwanginji.github.io/class2024/)
-
-- [자바스크립트] - (https://hwanginji.github.io/class2024/javascript/index.html)
-
-- [MySQL] - (https://hwanginji.github.io/class2024/mysql/index.html)
-
-- [Quiz game] - (https://hwanginji.github.io/class2024/quiz/index.html)
-
-- [Github Blog] - (https://hwanginji.github.io/)
-
-- [Project01 : 웹사이트만들기(마라톤 정보 사이트)] - (http://dlswl1993.dothome.co.kr/)
-
-- [Project02 : JSON파일 수집하기(티켓처별 뮤지컬,콘서트,전시 순위)] - (https://github.com/HwangInJi/cultureChart)
-  
 ---
