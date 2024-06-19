@@ -5,25 +5,25 @@
 
 ---
 ## 📚 Study (24.03.01 ~ ing)   
-- [메인페이지] - (https://hwanginji.github.io/class2024/)
+- [메인페이지] - [자료 정리 모음](https://hwanginji.github.io/class2024/)
 
-- [자바스크립트] - (https://hwanginji.github.io/class2024/javascript/index.html)
+- [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://hwanginji.github.io/class2024/javascript/index.html)
 
-- [MySQL] - (https://hwanginji.github.io/class2024/mysql/index.html)
+- [MySQL] - [SQL 기본 개념 정리](https://hwanginji.github.io/class2024/mysql/index.html)
 
-- [Quiz game] - (https://hwanginji.github.io/class2024/quiz/index.html)
+- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://hwanginji.github.io/class2024/quiz/index.html)
 
-- [Github Blog] - (https://hwanginji.github.io/)
+- [Github Blog] - [BLOG](https://hwanginji.github.io/)
 
-- [Website01 - Youtube Tea 정보 서치] - (https://youtubetea.vercel.app/)
+- [Website01 - Youtube Tea 정보 서치] - [Teast Tea 사이트](https://youtubetea.vercel.app/)
   
-- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - (https://youtube-playlist-beige.vercel.app/)
+- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://youtube-playlist-beige.vercel.app/)
   
-- [Website03 - 포트폴리오] - (https://vue-port-lime.vercel.app/)
+- [Website03 - 포트폴리오] - [포트폴리오 사이트](https://vue-port-lime.vercel.app/)
   
 ---
 ## 👨‍👧‍👧 Team Project (24.03.01 ~ ing)   
-- [Project01 : WRM(마라톤 정보 사이트) 리드미 정리] - (https://github.com/HwangInJi/Way-Run-Meaning)
+- [Project01 : WRM(마라톤 정보 사이트)] - [Github README 정리](https://github.com/HwangInJi/Way-Run-Meaning)
 
 - [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)]
   [Culture Chart 사이트](https://culture-chart.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/culture-chart)
