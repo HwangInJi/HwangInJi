@@ -25,7 +25,8 @@
 ## 👨‍👧‍👧 Team Project (24.03.01 ~ ing)   
 - [Project01 : WRM(마라톤 정보 사이트) 리드미 정리] - (https://github.com/HwangInJi/Way-Run-Meaning)
 
-- [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)] - (https://culture-chart.vercel.app/)
+- [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)]
+  [Culture Chart 사이트](https://culture-chart.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/culture-chart)
   
 ---
 ## 🏆 My GitHub Readme Stats   
