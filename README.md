@@ -21,6 +21,8 @@
   
 - [Website03 - 포트폴리오] - [포트폴리오 사이트](https://vue-port-lime.vercel.app/)
   
+- [Website04 - 영화 정보 사이트] - [Skywatch 사이트](https://vue-moviesite-injis-projects.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/vue-movie)
+  
 ---
 ## 👨‍👧‍👧 Team Project (24.03.01 ~ ing)   
 - [Project01 : WRM(마라톤 정보 사이트)] - [Github README 정리](https://github.com/HwangInJi/Way-Run-Meaning)
