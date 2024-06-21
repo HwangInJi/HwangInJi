@@ -15,9 +15,9 @@
 
 - [Github Blog] - [BLOG](https://hwanginji.github.io/)
 
-- [Website01 - Youtube Tea 정보 서치] - [Teast Tea 사이트](https://youtubetea.vercel.app/)
+- [Website01 - Youtube Tea 정보 서치] - [Teast Tea 사이트](https://youtubetea.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/youtubetea)
   
-- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://youtube-playlist-beige.vercel.app/)
+- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://youtube-playlist-beige.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/youtube-playlist)
   
 - [Website03 - 포트폴리오] - [포트폴리오 사이트](https://vue-port-lime.vercel.app/)
   
