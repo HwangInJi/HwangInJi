@@ -4,6 +4,11 @@
 </p>
 
 ---
+<a href="https://github.com/devxb/gitanimals" >
+  <img width = 900 src="https://render.gitanimals.org/farms/HwangInJi"/>
+</a>
+
+---
 ## 📚 Study (24.03.01 ~ ing)   
 - [메인페이지] - [자료 정리 모음](https://hwanginji.github.io/class2024/)
 
@@ -29,7 +34,7 @@
 
 - [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)]
   [Culture Chart 사이트](https://culture-chart.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/culture-chart)
-  
+
 ---
 ## 🏆 My GitHub Readme Stats   
 <div align="center">
