@@ -4,9 +4,11 @@
 </p>
 
 ---
-<a href="https://github.com/devxb/gitanimals" >
+<div align="center">
+    <a href="https://github.com/devxb/gitanimals" >
   <img width = 900 src="https://render.gitanimals.org/farms/HwangInJi"/>
 </a>
+</div>
 
 ---
 ## 📚 Study (24.03.01 ~ ing)   
