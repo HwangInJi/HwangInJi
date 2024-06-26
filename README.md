@@ -28,7 +28,7 @@
   
 - [Website03 - 영화 정보 사이트] - [Skywatch 사이트](https://vue-moviesite-injis-projects.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/vue-movie)
 
-- [Website04 - 포트폴리오] - [포트폴리오 사이트](https://vue-port-lime.vercel.app/)
+- [Website04 - 포트폴리오] - [Node.js사용 포트폴리오 사이트](https://vue-port-lime.vercel.app/) / [Next.js사용 포트폴리오 사이트](https://next-port-gray.vercel.app/)
 
 ---
 ## 👨‍👧‍👧 Team Project (24.03.01 ~ ing)   
