@@ -12,30 +12,55 @@
 
 ---
 ## 📚 Study (24.03.01 ~ ing)   
-- [메인페이지] - [자료 정리 모음](https://hwanginji.github.io/class2024/)
+#### [메인페이지] - [자료 정리 모음](https://hwanginji.github.io/class2024/)
+- Tech Stack : HTML, CSS
+- Description : 자기소개 페이지입니다. 만들었던 사이트 전체가 정리되어있습니다.
 
-- [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://hwanginji.github.io/class2024/javascript/index.html)
+#### [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://hwanginji.github.io/class2024/javascript/index.html)
+- Tech Stack : HTML, CSS
+- Description : 자바스크립트의 기본 개념을 정리한 페이지입니다. 자바스크립트의 함수 및 객체에 대해 정리되어있습니다.
 
-- [MySQL] - [SQL 기본 개념 정리](https://hwanginji.github.io/class2024/mysql/index.html)
+#### [MySQL] - [SQL 기본 개념 정리](https://hwanginji.github.io/class2024/mysql/index.html)
+- Tech Stack : HTML, CSS
+- Description : MySQL의 기본 개념을 정리한 페이지입니다.
 
-- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://hwanginji.github.io/class2024/quiz/index.html)
+#### [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://hwanginji.github.io/class2024/quiz/index.html)
+- Tech Stack : HTML, CSS, JavaScript
+- Description : 정보처리기능사 필기 시험을 위한 퀴즈 게임입니다. 직접 풀어보고, 설명을 보며 공부할 수 있습니다.
 
-- [Github Blog] - [BLOG](https://hwanginji.github.io/)
+#### [Github Blog] - [BLOG](https://hwanginji.github.io/)
+- Tech Stack : HTML, CSS
+- Description : 마크다운을 이용하여 깃허브로 블로그를 제작했습니다. 면접시 필요한 용어에 대해 정리해놓았습니다.
 
-- [Website01 - Youtube Tea 정보 서치] - [Teast Tea 사이트](https://youtubetea.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/youtubetea)
+#### [Website01 - Youtube Tea 정보 서치] - [Teast Tea 사이트](https://youtubetea.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/youtubetea)
+- Tech Stack : React, JavaScript, SCSS
+- Description : 유튜브 api를 이용하여 Tea정보를 검색할 수 있는 사이트를 만들었습니다.
   
-- [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://youtube-playlist-beige.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/youtube-playlist)
+#### [Website02 - 음악 차트 순위 정보 및 플레이리스트] - [Music Chart 사이트](https://youtube-playlist-beige.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/youtube-playlist)
+- Tech Stack : React, JavaScript, SCSS
+- Description : 유튜브 api와 음악사이트 데이터를 이용하여 플레이리스트 사이트를 만들었습니다. 애플뮤직, 지니 등 5개정도의 음악 차트 100위권과 서치 기능 및 원하는 플레이리스트 만들기와 영상 보기가 가능합니다.
   
-- [Website03 - 영화 정보 사이트] - [Skywatch 사이트](https://vue-moviesite-injis-projects.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/vue-movie)
+#### [Website03 - 영화 정보 사이트] - [Skywatch 사이트](https://vue-moviesite-injis-projects.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/vue-movie)
+- Tech Stack : Vue.js, JavaScript
+- Description : TMDB의 데이터를 이용해 영화 정보 사이트를 만들었습니다. 인기영화, 최신영화 등이 포함되어있으며 서치기능과 영화 상세보기가 가능합니다.
 
-- [Website04 - 포트폴리오] - [Node.js사용 포트폴리오 사이트](https://vue-port-lime.vercel.app/) / [Next.js사용 포트폴리오 사이트](https://next-port-gray.vercel.app/)
+#### [Website04 - 포트폴리오] - [Node.js사용 포트폴리오 사이트](https://vue-port-lime.vercel.app/) & [Github README 정리]
+- Tech Stack : node.js, JavaScript, SCSS
+- Description : node.js를 사용한 포트폴리오 사이트입니다. node.js를 직접 해보며 공부하기 위해 만든 포트폴리오 사이트입니다.
+
+#### [Website05 - 포트폴리오] - [Next.js사용 포트폴리오 사이트](https://next-port-gray.vercel.app/) & [Github README 정리]
+- Tech Stack : next.js, JavaScript, SCSS
+- Description : next.js를 사용한 포트폴리오 사이트입니다. node.js를 직접 해보며 공부하기 위해 만든 포트폴리오 사이트입니다.
 
 ---
 ## 👨‍👧‍👧 Team Project (24.03.01 ~ ing)   
-- [Project01 : WRM(마라톤 정보 사이트)] - [Github README 정리](https://github.com/HwangInJi/Way-Run-Meaning)
+#### [Project01 : WRM(마라톤 정보 사이트)] - [Github README 정리](https://github.com/HwangInJi/Way-Run-Meaning)
+- Tech Stack : PHP, SCSS
+- Description: WRM은 2030의 마라톤을 좋아하는 사람들이 마라톤 정보를 보고, 서로의 정보 및 크루를 모집하는 커뮤니티 공간을 목적으로 만든 사이트입니다.
 
-- [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)]
-  [Culture Chart 사이트](https://culture-chart.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/culture-chart)
+#### [Project02 : Culture Chart(티켓처별 뮤지컬,콘서트,전시 순위)] - [Culture Chart 사이트](https://culture-chart.vercel.app/) & [Github README 정리](https://github.com/HwangInJi/culture-chart)
+- Tech Stack : React, SCSS
+- Description: Culture Chart는 멜론, 예스24, 티켓링크에서 뮤지컬, 연극, 전시 랭킹 리스트를 볼 수 있게 정리한 사이트입니다.
 
 ---
 ## 📱 Tools   
